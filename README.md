@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
