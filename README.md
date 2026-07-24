@@ -80,9 +80,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hashithhh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Backtracking
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hashithhh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
