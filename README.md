@@ -64,6 +64,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
