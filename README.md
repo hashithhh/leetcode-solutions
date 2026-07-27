@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/hashithhh/leetcode-solutions/tree/master/0136-single-number) |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hashithhh/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Heap (Priority Queue)
 |  |
