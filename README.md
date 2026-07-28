@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/hashithhh/leetcode-solutions/tree/master/0136-single-number) |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
