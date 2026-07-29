@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hashithhh/leetcode-solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/hashithhh/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
@@ -75,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/hashithhh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/hashithhh/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
