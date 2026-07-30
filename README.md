@@ -172,4 +172,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/hashithhh/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
