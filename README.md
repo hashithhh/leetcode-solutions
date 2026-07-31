@@ -51,6 +51,7 @@
 | ------- |
 | [0437-path-sum-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,10 +97,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -187,4 +190,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/hashithhh/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
