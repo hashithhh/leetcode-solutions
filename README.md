@@ -122,6 +122,7 @@
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -217,4 +218,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
