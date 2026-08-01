@@ -18,6 +18,7 @@
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -94,6 +95,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -133,6 +136,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +176,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
