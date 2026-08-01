@@ -9,6 +9,7 @@
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0406-queue-reconstruction-by-height](https://github.com/hashithhh/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
+| [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -198,4 +201,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
