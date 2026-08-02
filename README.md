@@ -17,6 +17,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -81,6 +82,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -172,6 +174,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hashithhh/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -231,4 +234,8 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
