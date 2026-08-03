@@ -17,6 +17,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0437-path-sum-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -116,12 +118,14 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -144,6 +148,7 @@
 | ------- |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
