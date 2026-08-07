@@ -45,6 +45,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hashithhh/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -118,6 +119,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/hashithhh/leetcode-solutions/tree/master/0401-binary-watch) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -235,6 +239,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Indexed Tree
 |  |
