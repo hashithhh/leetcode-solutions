@@ -269,6 +269,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/hashithhh/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/hashithhh/leetcode-solutions/tree/master/0197-rising-temperature) |
 ## Graph Theory
 |  |
