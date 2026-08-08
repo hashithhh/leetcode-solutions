@@ -22,6 +22,7 @@
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hashithhh/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -196,6 +198,7 @@
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -243,6 +246,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
