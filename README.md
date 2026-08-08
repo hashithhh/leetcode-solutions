@@ -19,6 +19,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -198,6 +199,7 @@
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -310,6 +312,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
