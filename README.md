@@ -49,6 +49,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -169,6 +170,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
@@ -234,6 +236,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -256,6 +259,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Indexed Tree
