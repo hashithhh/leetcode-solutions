@@ -29,6 +29,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -192,6 +193,7 @@
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -320,6 +322,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Stack
