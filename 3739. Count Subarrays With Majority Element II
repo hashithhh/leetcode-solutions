@@ -1,0 +1,12 @@
+constexpr int N=2e5+2;
+long long cntB[N], bias;
+
+class Solution {
+public:
+    static long long countMajoritySubarrays(vector<int>& nums, int target) {
+        bias=nums.size()+1;
+        int balance=bias;
+        memset(cntB , 0, (2*bias)*sizeof(long long));;
+        cntB[balance]=1;
+        long long ans=0, sum=0;
+        
