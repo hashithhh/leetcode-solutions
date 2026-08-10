@@ -39,6 +39,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/hashithhh/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -76,6 +77,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/hashithhh/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3731-find-missing-elements](https://github.com/hashithhh/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Backtracking
 |  |
@@ -328,6 +331,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -355,4 +359,12 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
