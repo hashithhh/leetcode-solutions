@@ -36,6 +36,7 @@
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -74,6 +75,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hashithhh/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hashithhh/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hashithhh/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -194,6 +198,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
@@ -269,6 +274,7 @@
 | ------- |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/hashithhh/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -294,6 +300,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Indexed Tree
 |  |
@@ -313,6 +320,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/hashithhh/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
