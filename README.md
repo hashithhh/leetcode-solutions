@@ -373,6 +373,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hashithhh/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
 ## Minimax
@@ -392,6 +393,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hashithhh/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/hashithhh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Fermat's Little Theorem
@@ -430,4 +432,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hashithhh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hashithhh/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
