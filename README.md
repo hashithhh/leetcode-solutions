@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0877-stone-game) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0877-stone-game) |
@@ -226,6 +228,7 @@
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -278,6 +281,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hashithhh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
