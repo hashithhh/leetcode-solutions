@@ -51,6 +51,7 @@
 | [3731-find-missing-elements](https://github.com/hashithhh/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/hashithhh/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -75,6 +76,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3838-weighted-word-mapping](https://github.com/hashithhh/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hashithhh/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3838-weighted-word-mapping](https://github.com/hashithhh/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
