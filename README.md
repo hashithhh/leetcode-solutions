@@ -21,6 +21,7 @@
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -167,6 +168,7 @@
 | [0877-stone-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +216,7 @@
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/hashithhh/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -373,6 +376,7 @@
 | [0877-stone-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Prefix Sum
 |  |
 | ------- |
