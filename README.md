@@ -280,6 +280,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/hashithhh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hashithhh/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hashithhh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hashithhh/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
