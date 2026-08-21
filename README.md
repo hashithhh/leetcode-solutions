@@ -42,6 +42,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/hashithhh/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -91,6 +92,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hashithhh/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -138,6 +140,7 @@
 | [1386-cinema-seat-allocation](https://github.com/hashithhh/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hashithhh/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hashithhh/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hashithhh/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -183,6 +186,7 @@
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hashithhh/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -341,6 +345,7 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -458,6 +463,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Euclidean Algorithm
 |  |
