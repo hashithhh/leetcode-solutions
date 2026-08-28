@@ -216,6 +216,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hashithhh/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hashithhh/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/hashithhh/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -378,6 +379,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hashithhh/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hashithhh/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hashithhh/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
