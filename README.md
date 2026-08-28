@@ -27,6 +27,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/hashithhh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hashithhh/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -198,6 +199,7 @@
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hashithhh/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -256,6 +258,7 @@
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hashithhh/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -441,6 +444,7 @@
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hashithhh/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
@@ -449,6 +453,7 @@
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/hashithhh/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -468,12 +473,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
