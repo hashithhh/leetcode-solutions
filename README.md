@@ -50,6 +50,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/hashithhh/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -98,6 +99,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hashithhh/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3093-longest-common-suffix-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -580,4 +582,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
