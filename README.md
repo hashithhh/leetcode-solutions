@@ -17,6 +17,7 @@
 | [1260-shift-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/hashithhh/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/hashithhh/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hashithhh/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/hashithhh/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -146,6 +147,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hashithhh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/hashithhh/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1306-jump-game-iii](https://github.com/hashithhh/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/hashithhh/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
