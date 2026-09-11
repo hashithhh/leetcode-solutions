@@ -35,6 +35,7 @@
 | [2029-stone-game-ix](https://github.com/hashithhh/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hashithhh/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hashithhh/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hashithhh/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/hashithhh/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hashithhh/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hashithhh/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/hashithhh/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hashithhh/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -366,6 +368,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hashithhh/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hashithhh/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hashithhh/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hashithhh/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -503,6 +506,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hashithhh/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hashithhh/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2574-left-and-right-sum-differences](https://github.com/hashithhh/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/hashithhh/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hashithhh/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
