@@ -31,6 +31,7 @@
 | [1732-find-the-highest-altitude](https://github.com/hashithhh/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hashithhh/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/hashithhh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/hashithhh/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hashithhh/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,6 +212,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hashithhh/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/hashithhh/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/hashithhh/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/hashithhh/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -248,6 +250,7 @@
 | [1563-stone-game-v](https://github.com/hashithhh/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hashithhh/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [1840-maximum-building-height](https://github.com/hashithhh/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/hashithhh/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hashithhh/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
