@@ -450,6 +450,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hashithhh/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hashithhh/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -526,6 +527,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/hashithhh/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -656,6 +658,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/hashithhh/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## String Matching
@@ -679,4 +682,8 @@
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hashithhh/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
