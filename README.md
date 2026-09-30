@@ -52,6 +52,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/hashithhh/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashithhh/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hashithhh/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hashithhh/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/hashithhh/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -117,6 +118,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hashithhh/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hashithhh/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hashithhh/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -341,6 +343,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/hashithhh/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hashithhh/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hashithhh/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hashithhh/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hashithhh/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -530,6 +533,7 @@
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hashithhh/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/hashithhh/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/hashithhh/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -659,6 +663,7 @@
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/hashithhh/leetcode-solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hashithhh/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/hashithhh/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## String Matching
@@ -672,6 +677,7 @@
 ## Trie
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/hashithhh/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Topological Sort
 |  |
