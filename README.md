@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/hashithhh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -586,6 +587,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/hashithhh/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -686,6 +688,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hashithhh/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dijkstra's Algorithm
