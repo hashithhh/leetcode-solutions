@@ -106,6 +106,7 @@
 | [0657-robot-return-to-origin](https://github.com/hashithhh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/hashithhh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/hashithhh/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/hashithhh/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -598,6 +599,7 @@
 | [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/hashithhh/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/hashithhh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hashithhh/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/hashithhh/leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -700,6 +702,7 @@
 | [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hashithhh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hashithhh/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dijkstra's Algorithm
