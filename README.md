@@ -100,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -258,6 +259,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -390,6 +392,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/hashithhh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
