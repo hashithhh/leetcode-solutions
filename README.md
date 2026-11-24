@@ -260,6 +260,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hashithhh/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/hashithhh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -583,6 +584,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hashithhh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/hashithhh/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hashithhh/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
