@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/hashithhh/leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/hashithhh/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/hashithhh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hashithhh/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/hashithhh/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hashithhh/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/hashithhh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/hashithhh/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0376-wiggle-subsequence](https://github.com/hashithhh/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
