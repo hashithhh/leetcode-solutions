@@ -98,6 +98,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 | [3620-network-recovery-pathways](https://github.com/hashithhh/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hashithhh/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -546,6 +548,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hashithhh/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hashithhh/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hashithhh/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
